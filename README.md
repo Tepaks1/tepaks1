@@ -66,25 +66,11 @@ me.say_hi()
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## `🌟 Innovation Metrics`
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
-
-<br><br>
-<img src="https://github-profile-trophy.vercel.app/?username=upwind2543&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+🌟 Innovation Metrics
+<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400" alt="Innovation GIF">
 <br><br>
 
-<p align="center">
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=upwind2543&theme=radical"/>
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=upwind2543&theme=radical&utcOffset=8"/>
-</p>
-
-<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=upwind2543&theme=radical" />
-
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!-- GitHub Trophy --> <img src="https://github-profile-trophy.vercel.app/?username=upwind2543&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy Showcase" /> <br><br> <!-- GitHub Stats --> <p align="center"> <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=upwind2543&theme=darkhub" alt="Stats"/> <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=upwind2543&theme=darkhub&utcOffset=8" alt="Productive Time"/> </p> <!-- Profile Details --> <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=upwind2543&theme=darkhub" alt="Profile Details"/> </div> <!-- Aesthetic Divider --> <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## `🎯 Core Operations`
 
