@@ -1,99 +1,145 @@
-<div align="center">
-  
-```ascii
-  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
- █   WELCOME TO THE SHADOWS   █
-  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background-color: #0a0a0a;
+      color: #c7c7c7;
+      font-family: 'Courier New', monospace;
+      margin: 0;
+      padding: 20px;
+      line-height: 1.6;
+    }
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=SYSTEM+BREACH+DETECTED;ACCESSING+MAIN+FRAMEWORK;WELCOME+TO+MY+DIGITAL+SANCTUARY)](https://git.io/typing-svg)
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
 
-</div>
+    .bat-logo {
+      text-align: center;
+      margin: 20px 0;
+      color: #ffd700;
+    }
 
-# `>> UPWIND2543 <<` ![](https://komarev.com/ghpvc/?username=upwind2543&color=00ff00)
+    .title {
+      text-align: center;
+      color: #ffd700;
+      text-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
+      margin: 20px 0;
+    }
 
-<div align="center">
-  
-```diff
-+ Infiltrating Systems | Breaking Boundaries | Building the Future +
-```
-  
-</div>
+    .status-box {
+      border: 1px solid #ffd700;
+      padding: 20px;
+      margin: 20px 0;
+      background-color: rgba(10, 10, 10, 0.8);
+      box-shadow: 0 0 20px rgba(255, 215, 0, 0.2);
+    }
 
-## `// SYSTEM OVERVIEW`
+    .skill-badge {
+      display: inline-block;
+      padding: 5px 10px;
+      margin: 5px;
+      background-color: #1a1a1a;
+      border: 1px solid #ffd700;
+      border-radius: 3px;
+    }
 
-```python
-class CyberVigilante:
-    def __init__(self):
-        self.codename = "UPWIND2543"
-        self.status = "Active"
-        self.mission = "Creating Digital Excellence"
-        self.location = "In The Shadows"
-```
+    .bat-divider {
+      text-align: center;
+      color: #ffd700;
+      margin: 20px 0;
+    }
 
-## `// COMMUNICATION CHANNELS`
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 20px;
+      margin: 20px 0;
+    }
 
-<div align="center">
-  
-[![YouTube](https://img.shields.io/badge/YouTube-Encrypted_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1A1B27)](https://www.youtube.com/@upwind2543)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Secure_Network-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1A1B27)](https://whatsapp.com/channel/0029Vab80HT60eBWA6FUvm1M)
+    .stat-card {
+      background-color: #1a1a1a;
+      padding: 15px;
+      border: 1px solid #ffd700;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="bat-logo">
+      <pre>
+    .    .        .      .             . .     .        .          .          .
+  .         .  .               .   . ###        .           .             .
+         .      .   .    .  _   .  #####   .          .         .
+    .      .         .    _| |_    #####      .   .                . .        .
+ .     .    .   .  .     |   |   .  ###               .
+    .            .   .    | | |  .        .        .                    .
+        .  .  .       .   | | | .    BATCOMPUTER ONLINE    .  .   .             .
+   .  .       .   .       |   |       .       .   .      . 
+  .              .    .   |   |  .          .     .      .        .
+       .     .    .      / \ / \      .  .   .     .     .    .      .    .
+</pre>
+    </div>
 
-</div>
+    <h1 class="title">THE DARK KNIGHT'S DOMAIN</h1>
 
-## `// ARSENAL & CAPABILITIES`
+    <div class="status-box">
+      <pre>
+IDENTITY: UPWIND2543
+STATUS: VIGILANTE
+LOCATION: GOTHAM CITY
+MISSION: PROTECTING THE DIGITAL REALM
+      </pre>
+    </div>
 
-```css
-[System Status: ONLINE]
-```
+    <div class="bat-divider">⚡ ARSENAL ⚡</div>
 
-<div align="center">
-  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=1A1B27)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1A1B27)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1A1B27)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1A1B27)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&labelColor=1A1B27)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=1A1B27)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=1A1B27)
+    <div class="status-box">
+      <div class="skill-badge">HTML5</div>
+      <div class="skill-badge">CSS3</div>
+      <div class="skill-badge">JavaScript</div>
+      <div class="skill-badge">Python</div>
+      <div class="skill-badge">Django</div>
+      <div class="skill-badge">Git</div>
+      <div class="skill-badge">GitHub</div>
+    </div>
 
-</div>
+    <div class="bat-divider">🦇 BATCAVE OPERATIONS 🦇</div>
 
-## `// MISSION LOGS`
+    <div class="stats-grid">
+      <div class="stat-card">
+        <h3>ACTIVE MISSIONS</h3>
+        <p>CLASSIFIED</p>
+      </div>
+      <div class="stat-card">
+        <h3>SECURITY LEVEL</h3>
+        <p>MAXIMUM</p>
+      </div>
+      <div class="stat-card">
+        <h3>THREAT STATUS</h3>
+        <p>VIGILANT</p>
+      </div>
+    </div>
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=midnight-purple&hide_border=true&background=1A1B27&stroke=00FF00&ring=00FF00&fire=FF0000&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF)](https://git.io/streak-stats)
+    <div class="bat-divider">💀 CONTACT PROTOCOLS 💀</div>
 
-</div>
+    <div class="status-box">
+      <pre>
+YOUTUBE: [ENCRYPTED] @upwind2543
+WHATSAPP: [SECURE CHANNEL] Active
+STATUS: MONITORING ALL FREQUENCIES
+      </pre>
+    </div>
 
-## `// CLASSIFIED OPERATIONS`
-
-```yaml
-STATUS: DECLASSIFIED
-```
-
-- **[REDACTED]** - Stealth system optimization toolkit
-- **[ENCRYPTED]** - Neural network enhancement suite
-- **[CLASSIFIED]** - Quantum computation interface
-
-## `// TACTICAL METRICS`
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1A1B27&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF)
-
-</div>
-
-## `// SECURE CHANNELS`
-
-<div align="center">
-  
-[![Subscribe](https://img.shields.io/badge/SUBSCRIBE-Channel_Access-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1A1B27)](https://www.youtube.com/@upwind2543)
-[![Join](https://img.shields.io/badge/JOIN-Encrypted_Network-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1A1B27)](https://whatsapp.com/channel/0029Vab80HT60eBWA6FUvm1M)
-
-```ascii
+    <div class="bat-divider">
+      <pre>
 CONNECTION TERMINATED
-SYSTEM LOGOUT: SUCCESSFUL
-```
-
-</div>
+BATCOMPUTER LOGOUT: SUCCESSFUL
+      </pre>
+    </div>
+  </div>
+</body>
+</html>
