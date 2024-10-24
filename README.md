@@ -65,12 +65,12 @@ me.say_hi()
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+## // COMMUNICATION CHANNELS
+<div align="center">
 
-🌟 Innovation Metrics
-<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400" alt="Innovation GIF">
-<br><br>
-
-<!-- GitHub Trophy --> <img src="https://github-profile-trophy.vercel.app/?username=upwind2543&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy Showcase" /> <br><br> <!-- GitHub Stats --> <p align="center"> <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=upwind2543&theme=darkhub" alt="Stats"/> <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=upwind2543&theme=darkhub&utcOffset=8" alt="Productive Time"/> </p> <!-- Profile Details --> <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=upwind2543&theme=darkhub" alt="Profile Details"/> </div> <!-- Aesthetic Divider --> <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+[![YouTube](https://img.shields.io/badge/YouTube-Encrypted_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1A1B27)](https://www.youtube.com/@upwind2543)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Secure_Network-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1A1B27)](https://whatsapp.com/channel/0029Vab80HT60eBWA6FUvm1M)
+</div>
 
 ## `🎯 Core Operations`
 
