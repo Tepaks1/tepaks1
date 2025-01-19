@@ -32,7 +32,7 @@
 <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=Tepaks1 &show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical&hide_border=true&background=FFFFFF00">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tepaks1&theme=radical&hide_border=true&background=FFFFFF00">
 </p>
 
 <!-- Profile Views Counter -->
